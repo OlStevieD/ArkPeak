@@ -1,0 +1,14 @@
+{
+  "name": "arkpeak",
+  "version": "1.0.0",
+  "description": "Ark Peak Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Danals",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
